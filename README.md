@@ -1,9 +1,9 @@
-# 🌆 Sistema Inteligente de Mitigación de $NO_2$ en Smart Cities mediante IoT, Fotocatálisis y Soluciones Naturales
+# 🌆 Sistema Inteligente de Mitigación de No2 en Smart Cities mediante IoT, Fotocatálisis y Soluciones Naturales
 
 ## 📌 Descripción del Proyecto
-Este proyecto presenta el diseño estratégico y la arquitectura de datos para una infraestructura urbana inteligente orientada a la reducción activa de la contaminación por $NO_2$. 
+Este proyecto presenta el diseño estratégico y la arquitectura de datos para una infraestructura urbana inteligente orientada a la reducción activa de la contaminación por NO2. 
 
-El sistema combina elementos biológicos, químicos y mecánicos controlados mediante una red **IoT**, la cual procesa datos ambientales para realizar previsiones y regular de forma dinámica la estimulación lumínica. El objetivo central es mantener los niveles de $NO_2$ de forma constante por debajo de los **20 $\mu g/m^3$**, garantizando la máxima eficiencia energética del ecosistema tecnológico.
+El sistema combina elementos biológicos, químicos y mecánicos controlados mediante una red **IoT**, la cual procesa datos ambientales para realizar previsiones y regular de forma dinámica la estimulación lumínica. El objetivo central es mantener los niveles de NO2 de forma constante por debajo de los 20ug/m^3, garantizando la máxima eficiencia energética del ecosistema tecnológico.
 
 ---
 
@@ -12,7 +12,7 @@ El sistema combina elementos biológicos, químicos y mecánicos controlados med
 El proyecto integra una infraestructura de mitigación activa basada en tres pilares:
 1. **Solución Biológica (Hiedra):** Actúa como barrera vegetal natural para la captación y absorción de partículas y gases contaminantes.
 2. **Direccionamiento Mecánico (Lamas Deflectoras):** Estructuras diseñadas para optimizar y redirigir el flujo del aire contaminado hacia las zonas de tratamiento.
-3. **Reacción Química Activa (Pintura Fotocatalítica + Luz UV):** Uso de superficies tratadas con compuestos catalíticos que, al activarse mediante luz ultravioleta (UV) regulada artificialmente, descomponen el $NO_2$ acelerando su eliminación.
+3. **Reacción Química Activa (Pintura Fotocatalítica + Luz UV):** Uso de superficies tratadas con compuestos catalíticos que, al activarse mediante luz ultravioleta (UV) regulada artificialmente, descomponen el NO2 acelerando su eliminación.
 
 ---
 
@@ -27,5 +27,5 @@ El núcleo de **Strategic Business Analytics** de este proyecto reside en la ges
 ---
 
 ## 📊 Indicadores Clave de Rendimiento (KPIs) de Negocio
-* **Cumplimiento del Umbral:** Porcentaje de tiempo en el que el sistema logra mantener el $NO_2$ por debajo del objetivo crítico de **20 $\mu g/m^3$**.
-* **Eficiencia Energética:** Ratio de ahorro de energía eléctrica ($kWh$) conseguido mediante la regulación dinámica de la luz UV frente a un sistema de encendido continuo.
+* **Cumplimiento del Umbral:** Porcentaje de tiempo en el que el sistema logra mantener el NO2 por debajo del objetivo crítico de **20ug/M3.
+* **Eficiencia Energética:** Ratio de ahorro de energía eléctrica (kWh) conseguido mediante la regulación dinámica de la luz UV frente a un sistema de encendido continuo.
